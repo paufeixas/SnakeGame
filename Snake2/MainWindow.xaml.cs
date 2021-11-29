@@ -39,7 +39,7 @@ namespace Snake2
             //Redibuixar cada vegada
             Ellipse ellSerp = new Ellipse()
             {
-                Fill = Brushes.Green,
+                Fill = Brushes.Blue,
                 Width = canvas.ActualWidth /SnakeGame.X_SIZE,
                 Height = canvas.ActualHeight / SnakeGame.Y_SIZE,
             };
